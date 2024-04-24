@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Паттер Стретегия", "Паттер Стретегия.csproj", "{FD6F6E44-0F9E-4073-889A-B992E42F7538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6F6E44-0F9E-4073-889A-B992E42F7538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6F6E44-0F9E-4073-889A-B992E42F7538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6F6E44-0F9E-4073-889A-B992E42F7538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6F6E44-0F9E-4073-889A-B992E42F7538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB87715C-DEF9-405E-BAA5-699E80C827DA}
+	EndGlobalSection
+EndGlobal
